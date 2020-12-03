@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlyon87&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlyon87&hide=css&langs_count=8&layout=compact&theme=onedark" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlyon87&hide=css&langs_count=8&layout=compact&theme=onedark" />
 </a>
 
 > I'm experimenting with the new GitHub Profile README.
