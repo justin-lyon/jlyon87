@@ -1,17 +1,11 @@
 # Justin Lyon's GitHub README Profile
 
-|  |  |
-| --- | --- |
-| ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlyon87&count_private=true&show_icons=true&theme=onedark) | ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jlyon87&hide=css&langs_count=8&layout=compact&theme=onedark) |
-
-<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlyon87&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlyon87&hide=css&langs_count=8&layout=compact&theme=onedark" />
 </a>
-</div>
 
 > I'm experimenting with the new GitHub Profile README.
 
